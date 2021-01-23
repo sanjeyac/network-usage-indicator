@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import signal
 from gi.repository import Gtk as gtk
 from gi.repository import AppIndicator3 as appindicator
