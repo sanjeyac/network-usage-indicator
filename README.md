@@ -27,5 +27,3 @@ Add this command to the list of startup applications
 ```python3 <path to folder>/network-usage-indicator.py```
 
 ( Ubuntu: type "startup" on the menu > click on add button > add the above command as "Command" and logout and login to see if it works.)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
