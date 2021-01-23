@@ -2,7 +2,7 @@
 
 A network app indicator, based on GTK3 Appindicator3, which is mainly a wrapper for vnstat on linux.
 
-This indicator will show network usage of the current day from this computer ( it's not a realtime network indicator ) 
+This indicator will show network usage of the current day, helping in manage non-flat internet packages to avoid extracosts.
 
 ![Demo Image](docs/demo.png)
 
